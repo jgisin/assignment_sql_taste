@@ -1,6 +1,7 @@
 # assignment_sql_taste
 A delicious appetizer of SQL-ey goodness
 
+Jeff's Assignment
 
 ## Queries
 
@@ -10,4 +11,6 @@ A delicious appetizer of SQL-ey goodness
 SELECT *
   FROM tutorial.us_housing_units
   WHERE month = 1
+```
+
 ```
